@@ -35,8 +35,8 @@ Data Storytelling
 Dashboard Design
 Connect with Me
 
-GitHub:
+GitHub: https://github.com/AmirhosseinAshrafi99
 
-LinkedIn:
+LinkedIn: linkedin.com/in/amirhosseinashrafi
 
-Email: 
+Email: ashrafiamirhossein99@gmail.com
