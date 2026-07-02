@@ -33,10 +33,11 @@ Advanced Machine Learning
 Predictive Analytics
 Data Storytelling
 Dashboard Design
-Connect with Me
+
+Connect with Me Through:
 
 GitHub: https://github.com/AmirhosseinAshrafi99
 
-LinkedIn: linkedin.com/in/amirhosseinashrafi
+LinkedIn: https://linkedin.com/in/amirhosseinashrafi
 
 Email: ashrafiamirhossein99@gmail.com
