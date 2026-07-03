@@ -1,43 +1,49 @@
-👋 Hi, I'm Amirhossein Ashrafi
+# 👋 Hi, I'm Amirhossein Ashrafi
 
-Aspiring Data Analyst passionate about transforming data into actionable business insights using analytics, machine learning, SQL, and interactive dashboards.
+Aspiring **Data Analyst** passionate about transforming data into actionable business insights through **Python, SQL, Machine Learning, and interactive dashboards**.
 
-Technologies:
+---
 
-🐍 Python
+## 💻 Technologies & Tools
 
-🗄 SQL
+* 🐍 Python
+* 🗄 SQL (SQLite)
+* 📊 Power BI
+* 🐼 Pandas
+* 🔢 NumPy
+* 🤖 Scikit-learn
+* 📈 Machine Learning
+* 📉 Data Visualization
+* 📓 Jupyter Notebook
+* 🔧 Git & GitHub
 
-📊 Power BI
+---
 
-🐼 Pandas
+## 📂 Featured Projects
 
-🔢 NumPy
+* 📊 **Retail Sales Analytics**
+* 👥 **Customer Churn Analysis**
+* 📈 **Sales Forecasting Analysis**
+* 👥 **HR Employee Attrition Analysis**
 
-🤖 Scikit-learn
+---
 
-📈 Machine Learning
+## 🌱 Currently Learning
 
-📉 Data Visualization
+* Advanced Machine Learning
+* Predictive Analytics
+* Data Storytelling
+* Dashboard Design
+* Model Deployment
 
-Featured Projects:
+---
 
-📊 Retail Sales Analytics
+## 📫 Connect with Me
 
-📈 Sales Forecasting Analysis
+* GitHub: https://github.com/AmirhosseinAshrafi99
+* LinkedIn: https://linkedin.com/in/amirhosseinashrafi
+* Email: ashrafiamirhossein99@gmail.com
 
-👥 HR Employee Attrition Analysis
+---
 
-Currently Learning:
-Advanced Machine Learning
-Predictive Analytics
-Data Storytelling
-Dashboard Design
-
-Connect with Me Through:
-
-GitHub: https://github.com/AmirhosseinAshrafi99
-
-LinkedIn: https://linkedin.com/in/amirhosseinashrafi
-
-Email: ashrafiamirhossein99@gmail.com
+> *"I enjoy building end-to-end analytics projects that combine data cleaning, SQL, machine learning, and business intelligence to solve real-world business problems."*
